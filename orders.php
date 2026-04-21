@@ -92,7 +92,7 @@ if (strlen($_SESSION['aid'] == 0)) {
                                                 </div>
                                             </div>
 
-                                            <div class="form-row">
+                                            <div class="form-row">>>
                                                 <div class="col-md-6 mb-10">
                                                     <label for="validationCustom03">Product Price</label>
                                                     <input type="text" class="form-control" id="validationCustom03" placeholder="Product Price" name="price" required>
